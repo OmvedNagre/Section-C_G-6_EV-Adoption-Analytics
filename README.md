@@ -1,45 +1,10 @@
-# NST DVA Capstone 2 - Project Repository
-
-> **Newton School of Technology | Data Visualization & Analytics**
-> A 2-week industry simulation capstone using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
-
----
-
-## Before You Start
-
-1. Rename the repository using the format `SectionName_TeamID_ProjectName`.
-2. Fill in the project details and team table below.
-3. Add the raw dataset to `data/raw/`.
-4. Complete the notebooks in order from `01` to `05`.
-5. Publish the final dashboard and add the public link in `tableau/dashboard_links.md`.
-6. Export the final report and presentation as PDFs into `reports/`.
-
-### Quick Start
-
-If you are working locally:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter notebook
-```
-
-If you are working in Google Colab:
-
-- Upload or sync the notebooks from `notebooks/`
-- Keep the final `.ipynb` files committed to GitHub
-- Export any cleaned datasets into `data/processed/`
-
----
-
 ## Project Overview
 
 | Field | Details |
 |---|---|
 | **Project Title** | EV Adoption Analytics: Washington State Electric Vehicle Population Intelligence |
 | **Sector** | Transportation & Energy Policy |
-| **Team ID** | Section-C_G-6 |
+| **Team ID** | G-6 |
 | **Section** | Section C |
 | **Faculty Mentor** | _To be filled by team_ |
 | **Institute** | Newton School of Technology |
