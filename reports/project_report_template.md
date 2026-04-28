@@ -21,12 +21,11 @@
 | Role | Name | GitHub Username |
 |---|---|---|
 | Project Lead | Omved Nagre | OmvedNagre |
-| Data Lead | Omved Nagre | OmvedNagre |
+| Data Lead | Om Mishra | Lalilal0 |
 | ETL Lead | Gogulamudi JayaDeep | Jayadeep007 |
 | Analysis Lead | Sushant | Sushantydv01 |
-| Visualization Lead | Om Mishra, Harsh Raj | Lalilal0, dev-harsh-118 |
-| Strategy Lead | Harsh Raj, Om Mishra | dev-harsh-118, Lalilal0 |
-| PPT and Quality Lead | Anshuman Mehta | Anshuman-utd |
+| Visualization Lead | Harsh Raj | dev-harsh-118 |
+| Strategy + Quality Lead | Anshuman Mehta | Anshuman-utd |
 
 ---
 
@@ -584,12 +583,12 @@ Section-C_G-6_EV-Adoption-Analytics/
 
 | Team Member | Role | Dataset Sourcing | ETL & Cleaning | EDA & Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT & Viva |
 |---|---|---|---|---|---|---|---|---|
-| Omved Nagre | Project & Data Lead | Owner | Support | Owner | Owner | Support | Owner | Support |
+| Omved Nagre | Project Lead | Owner | Support | Owner | Owner | Support | Owner | Support |
+| Om Mishra | Data Lead | Owner | Support | Support | Support | Support | Support | Support |
 | Gogulamudi JayaDeep | ETL Lead | Support | Owner | Support | Support | Support | Support | Support |
 | Sushant | Analysis Lead | Support | Support | Owner | Owner | Support | Support | Support |
-| Om Mishra | Viz & Strategy Lead | Support | Support | Support | Support | Owner | Support | Support |
-| Harsh Raj | Viz & Strategy Lead | Support | Support | Support | Support | Owner | Support | Support |
-| Anshuman Mehta | PPT & Quality Lead | Support | Support | Support | Support | Support | Support | Owner |
+| Harsh Raj | Visualization Lead | Support | Support | Support | Support | Owner | Support | Support |
+| Anshuman Mehta | Strategy + Quality Lead | Support | Support | Support | Support | Support | Support | Owner |
 
 ---
 
