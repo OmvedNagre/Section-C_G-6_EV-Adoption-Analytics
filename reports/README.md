@@ -1,8 +1,6 @@
-Final exported deliverables should be stored in this folder.
+# Reports
 
-Expected final files:
+This directory contains the project reports and presentation documentation.
 
-- `project_report.pdf`
-- `presentation.pdf`
-
-Use the markdown templates in this folder as drafting guides before exporting the final PDFs.
+- `project_report_template.md`: The complete, detailed project report.
+- `presentation_outline.md`: The structure for the final presentation.
