@@ -605,6 +605,4 @@ Section-C_G-6_EV-Adoption-Analytics/
 | Tableau Public | 2024.x | Dashboard design and publishing |
 | GitHub | — | Version control, collaboration |
 
----
-
-*Newton School of Technology — Data Visualization & Analytics | Capstone 2 | Section C Group 6*
+-

@@ -171,9 +171,8 @@ The project follows a structured 7-step workflow:
 | Google Colab | Supported | Cloud notebook execution environment |
 | Tableau Public | Mandatory | Dashboard design, publishing, and sharing |
 | GitHub | Mandatory | Version control, collaboration, contribution audit |
-| SQL | Optional | Initial data extraction only, if documented |
 
-**Recommended Python libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `statsmodels`
+**Python libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
 
 ---
 
