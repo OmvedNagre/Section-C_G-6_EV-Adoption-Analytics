@@ -16,3 +16,6 @@ Portfolio: https://harsh-raj-08.github.io/DVA_portfolio/
 
 🔹 5. Name: Om Mishra
 Portfolio: https://github.com/Lalilal0/portfolio
+
+🔹 6. Name: Omved Nagre
+Portfolio: https://omvednagre.github.io/DVA-_Portfolio/
