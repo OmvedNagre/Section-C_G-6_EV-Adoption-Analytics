@@ -4,3 +4,6 @@
 
 🔹 1. Name: Sushant
 Portfolio: https://sushantydv01.github.io/Dva-Portfolio/
+
+🔹 2. Name: Jayadeep
+Portfolio: https://jayadeep007.github.io/Portfolio/
